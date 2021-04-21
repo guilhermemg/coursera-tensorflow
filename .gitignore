@@ -134,3 +134,5 @@ share/
 bin/
 x86_64-conda_cos6-linux-gnu/
 etc/
+
+notebooks/tmp2/
